@@ -26,3 +26,6 @@ Analysis#6
 Shown is plots of the top 40 stations and male vs female riders.
 Males make up over 63% of riders.
 Females make up ~36% of riders.
+
+Tableau Public link
+https://public.tableau.com/authoring/CityBikeChallenge_16782460603600/TopStationsTopbyGenderandusertype#2
